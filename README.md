@@ -1,4 +1,8 @@
-### Hi there 👋
+### Greetings 🦾
+
+ - 🕵️‍♂️ I'm currently working on my yield curve deep learning project at Charles University
+ - 👨‍💻 I brush up on my coding skills with datacamp.com
+ - 🧗‍♂️ And I like climbing.)
 
 <!--
 **mrkoubek/mrkoubek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
